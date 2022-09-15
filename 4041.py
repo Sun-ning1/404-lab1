@@ -1,4 +1,4 @@
 import requests
 print(requests.__version_)
 print(requests.get('https://www.google.com/'))
-print(requests.get('https://raw.githubusercontent.com/sun-ning1/404-Lab1/main/404lab1.py'))
+print(requests.get('https://raw.githubusercontent.com/sun-ning1/404-Lab1/main/4041.py'))
